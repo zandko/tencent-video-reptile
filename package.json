@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "简单的爬虫",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.1.13",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "body-parser": "^1.18.2"
+  }
+}
